@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edmondplumbingteam.com/sitemap.xml
